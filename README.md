@@ -8,5 +8,4 @@ It is a java project provide platform for  user to register for Blood,Kidney ,Li
 
 ![Screenshot (4)](https://github.com/user-attachments/assets/2ec0421c-439e-4c77-8450-5742fd03a547)
 ![Screenshot (5)](https://github.com/user-attachments/assets/500260ff-f2c8-4974-b35b-144e89718c4b)
-![Screenshot (11)](https://github.com/user-attachments/assets/47b15f3a-7c09-4934-8afd-a44776eb1ae1)
 ![Screenshot (6)](https://github.com/user-attachments/assets/4397984a-1da6-4099-a1ee-eda79c5ab1d1)
